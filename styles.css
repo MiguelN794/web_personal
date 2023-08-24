@@ -1,0 +1,27 @@
+.title {
+    color: #004cff;
+    font-size: 30px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.text {
+    color: #5100ff;
+    font-size: 14px;
+}
+
+.link {
+    color: #ff00ff;
+    text-decoration: none;
+}
+
+body {
+    background-color: #000;
+}
+
+html {
+    scroll-behavior: smooth;
+    overflow-x: hidden;
+    overflow-y: hidden;
+
+}
